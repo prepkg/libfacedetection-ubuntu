@@ -1,0 +1,5 @@
+Package: libfacedetection
+Version: 0.0.1+XXXXXXXX.YYYYYYY-1
+Architecture: amd64
+Maintainer: prepkg <precompiledpkg@gmail.com>
+Description: CNN-based face detection
